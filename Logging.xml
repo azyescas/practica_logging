@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2026-11-01T00:44:03.508483500Z</date>
+  <millis>1793493843508</millis>
+  <nanos>483500</nanos>
+  <sequence>0</sequence>
+  <logger>ProcesadorCalificaciones</logger>
+  <level>SEVERE</level>
+  <class>ProcesadorCalificaciones</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>No se especificó archivo de entrada</message>
+</record>
+</log>
